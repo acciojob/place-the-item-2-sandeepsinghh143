@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+
+/* Your CSS Code here. */
+.holder{
+	display:flex;
+	flex-flow: row wrap;
+	justify-content:center;
+}
+.green{
+	background-color:green;
+	height:130px;
+	width:15%;
+	font-size:50px;
+}
+.red{
+	background-color:red;
+	height:130px;
+	width:15%;
+	font-size:50px;
+}
+.blue{
+	background-color:blue;
+	height:130px;
+	width:15%;
+	font-size:50px;
+}
